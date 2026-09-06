@@ -8,4 +8,4 @@ O dockerfile é o arquivo de instruções de criação de imagem (Sistema Operac
 3. Após a criação da imagem é necessário criar o container que irá utilizar essa imagem. Para esta etapa use o comando abaixo:<br>
    <b>docker run -dit --name tf-lab -v ./lab01:/lab1 lab-terraform-image:lab01 /bin/bash </b>
 
-Este exemplo usa como base o arquivo AWS deste repositório. Basta adaptar para outros formatos, seguindo estas premissas que a imagem o o container serão criados.
+Este exemplo usa como base o arquivo AWS deste repositório. Basta adaptar para outros formatos, seguindo estas premissas que a imagem e o container serão criados.
