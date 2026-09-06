@@ -10,3 +10,8 @@ Pense que com o Docker, é possível criar uma maquina super leve, escolher o si
 
 ## Contextos de Uso / Provedor ou Cenário
 Os diretórios desta secção estão organizados por contexto de utilização ou provedor de utilização. Exemplo: "Criação de imagem + Sistema Operacional + Terraform + AWS.
+
+## 📂 Estrutura
+
+- [AWS](./aws)  
+  Contém Dockerfile e configurações específicas para uso com AWS (ex: Terraform + AWS CLI).
