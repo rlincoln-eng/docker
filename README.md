@@ -13,10 +13,10 @@ Os diretórios desta secção estão organizados por contexto de utilização ou
 
 ## 💻 Comandos básicos para criar uma imagem e um container
 
-- [cmd](./Dockerfile)  
-  Contém Dockerfile e configurações específicas para uso com AWS (ex: Terraform + AWS CLI).
+- [CMD](./dockerfile)  
+  Contém comandos básicos de como criar uma imagem e um container no Docker Desktop.
 
 ## 📂 Estrutura
 
-- [AWS](./Dockerfile)  
+- [AWS](./dockerfile/terraform_awscli)  
   Contém Dockerfile e configurações específicas para uso com AWS (ex: Terraform + AWS CLI).
