@@ -1,2 +1,9 @@
 # docker
 Repositório destinado a estudos sobre Docker.
+
+## O que é Docker?
+Docker é uma plataforma que permite "empacotar" aplicações em **containers**, garantindo portabilidade e consistência.
+Pense que com o Docker, é possível criar uma maquina super leve, escolhar o sistema operacional e quais aplicações essa maquina terá.
+
+- [Download Docker](https://docs.docker.com/get-docker/)
+- [Documentação oficial](https://docs.docker.com/)
