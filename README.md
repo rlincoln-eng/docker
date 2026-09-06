@@ -13,7 +13,7 @@ Os diretórios desta secção estão organizados por contexto de utilização ou
 
 ## 💻 Comandos básicos para criar uma imagem e um container
 
-- [CMD](./dockerfile)  
+- [CMD](./dockerfile/leia-me.md)  
   Contém comandos básicos de como criar uma imagem e um container no Docker Desktop.
 
 ## 📂 Estrutura
