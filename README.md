@@ -7,3 +7,6 @@ Pense que com o Docker, é possível criar uma maquina super leve, escolhar o si
 
 - [Download Docker](https://docs.docker.com/get-docker/)
 - [Documentação oficial](https://docs.docker.com/)
+
+## Contextos de Uso / Provedor ou Cenário
+Os diretórios a seguir estão segregados por contexto de utilização ou provedor de utilização. Exemplo: "Criação de imagem + Sistema Operacional + Terraform + AWS.
